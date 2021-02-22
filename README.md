@@ -1,4 +1,7 @@
 # machine-learning
+GITHUB LINK-------> https://github.com/rj011/machine-learning.git
+
+
 This is a simple ml project incorporating keras using the mnist fashion data-set.
 The aim is to train the model to recognise images of different garments such as T-shirts, trousers, jeans etc.
 The mnist fashion is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
